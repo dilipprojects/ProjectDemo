@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PearTechnologyAssignment</string>
+    <string name="total_bill">Total Bill</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="discount">Discount</string>
+    <string name="coupon_discount">Coupon Discount</string>
+    <string name="Rs">\u20B9</string>
+    <string name="cooking_instruction_make_it_spice">Cooking Instruction: Make it Spice</string>
+</resources>
